@@ -1,0 +1,5 @@
+choose a restaurant
+
+decide toppings and how many.
+
+Pick up or deliver.
